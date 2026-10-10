@@ -30,6 +30,7 @@ Web: [mindandhealth.org](https://mindandhealth.org/)
 | [alternancia-modelos](https://github.com/novanoticia/alternancia-modelos) | Orquesta varios modelos de IA delegando subtareas. |
 | [claude-skills-exporter](https://github.com/novanoticia/claude-skills-exporter) | Exporta skills de Claude al estándar Agent Skills. |
 | [token-calculator-suite](https://github.com/novanoticia/token-calculator-suite) | Estimación de tokens, contexto y coste (TypeScript). |
+| [multilang-repo-skill](https://github.com/novanoticia/multilang-repo-skill) | Hace multiidioma repositorios, skills y plugins: separa texto de contratos de máquina, pide permiso por cada publicación y declara el nivel de cada evidencia. Plugin de Claude Code. |
 
 ## Automatización personal en Mac
 
@@ -38,7 +39,7 @@ Web: [mindandhealth.org](https://mindandhealth.org/)
 
 ## Cómo encajan
 
-`repo-auditor-ia` audita, `alternancia-modelos` orquesta, `claude-skills-exporter` distribuye, y el resto son las skills que se auditan, orquestan y exportan.
+`repo-auditor-ia` audita, `alternancia-modelos` orquesta, `claude-skills-exporter` distribuye, `multilang-repo-skill` lleva a otros idiomas, y el resto son las skills que se auditan, orquestan y exportan.
 
 ---
 Nota ética: este texto se elaboró con asistencia de IA y requiere revisión humana.
